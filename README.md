@@ -1,0 +1,2 @@
+# DESIGN-AND-IMPLEMENTATION-OF-SMART-BLUETOOTH-CONTROLLED-WHEELCHAIR-September-2024-to-March-2025-
+ To develop a Bluetooth-controlled wheelchair system that allows movement via a mobile app,       ensuring ease of use for individuals with limited mobility.       To create a wheelchair whose movement is controlled by simple button       presses through a mobile app, providing an intuitive interface for users.
